@@ -1,0 +1,7 @@
+{
+  "name": "ResearchPilotAI",
+  "description": "Domain-agnostic AI research agent transforming research questions into evidence-backed investigations, research gaps, testable hypotheses, mini papers, and prototypes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
